@@ -4,6 +4,8 @@
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[Tatum](https://tatumgood.github.io/)
+
 [jilayton](https://jilayton.github.io/)
 
 [Harleen](https://harleenkbrar.github.io)
