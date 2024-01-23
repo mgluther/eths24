@@ -6,6 +6,8 @@
 
 [Zagreb](https://zagreb-ethf23.github.io/)
 
+[Beck](https://btsonniksen.github.io/)
+
 [Tatum](https://tatumgood.github.io/)
 
 [jilayton](https://jilayton.github.io/)
